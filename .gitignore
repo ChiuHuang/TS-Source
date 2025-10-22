@@ -1,0 +1,29 @@
+# build output
+dist/
+# generated types
+.astro/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# environment variables
+.env
+.env.production
+
+# LLM API keys
+Download-*.txt
+Gemini_API.txt*
+# macOS-specific files
+.DS_Store
+
+# Editor config
+.vscode
+
+# Sth cannot post yet
+src/content/posts/Pre-exam_2025.md
